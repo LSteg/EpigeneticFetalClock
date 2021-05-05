@@ -1,1 +1,11 @@
 # EpigeneticFetalClock
+
+Code to the paper:
+
+### "Novel epigenetic clock for fetal brain development predicts prenatal developmental age for cellular stem cell models and derived neurons."
+
+Leonard C. Steg, Gemma L. Shireby, Jennifer Imm, Jonathan P. Davies, Alice Franklin, Robert Flynn, Seema C. Namboori, Akshay Bhinge, Aaron R. Jeffries,  Joe Burrage, Grant W. A. Neilson, Emma M. Walker, Leo W. Perfect, Jack Price, Grainne McAlonan, Deepak P. Srivastava, Nicholas J. Bray, Emma L. Cope, Kimberly M. Jones, Nicholas D. Allen, Ehsan Pishva, Emma L. Dempster,  Katie Lunnon, Jonathan Mill, &  Eilis Hannon
+
+### Abstract
+
+Induced pluripotent stem cells (iPSCs) and their differentiated neurons (iPSC-neurons) are a widely used cellular model in the research of the central nervous system. However, it is unknown how well they capture age-associated processes, particularly given that pluripotent cells are only present during the early stages of mammalian development. Epigenetic clocks utilize coordinated age-associated changes in DNA methylation to make predictions that correlate strongly with chronological age. It has been shown that the induction of pluripotency rejuvenates predicted epigenetic age. As existing clocks are not optimized for the study of brain development, to investigate more precisely the epigenetic age of iPSCs and iPSC-neurons, we developed the fetal brain clock (FBC), a bespoke epigenetic clock trained in human prenatal brain samples. The FBC was tested in two independent validation cohorts with a combined sample size of 194 fetal brain samples, confirming that the FBC outperforms other established epigenetic clocks. We applied the FBC to DNA methylation data from iPSCs and iPSC-derived neuronal precursor cells and neurons, finding that these cell types are epigenetically characterized as being early fetal in age. Furthermore, while differentiation from iPSCs to neurons significantly increases epigenetic age, iPSC-neurons are still predicted as being fetal. Together our findings reiterate the need to better understand the limitations of existing epigenetic clocks for answering biological research questions and highlight a limitation of iPSC-neurons as a cellular model of age-related diseases.
